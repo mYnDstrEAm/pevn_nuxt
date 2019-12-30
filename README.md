@@ -1,3 +1,6 @@
+# This project has been moved to GitLab
+https://gitlab.com/mYnDstrEAm/pevn_nuxt
+
 # The PEVNN stack
 
 <img src="https://camo.githubusercontent.com/4aa5532ee9baf623c95b901372002dfa4e97ff01/687474703a2f2f696d6775722e636f6d2f56344c746f49492e706e67" alt="Nuxt.js" width="200"/>
